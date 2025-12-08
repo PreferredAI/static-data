@@ -1,0 +1,7 @@
+.DS_Store
+
+*.txt
+!hello_world.txt
+*.npy
+*.csv
+*.dat
