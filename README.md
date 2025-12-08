@@ -12,9 +12,15 @@ This repository contains various recommendation systems datasets for [Cornac](ht
 * [x] citeulike
 * [x] epinions (hosted on trustlet.org)
 * [x] filmtrust
-* [ ] gowalla
+* [x] gowalla
+  * [x] `check-ins.zip` (GitHub releases: https://github.com/PreferredAI/static-data/releases/download/gowalla/check-ins.zip)
 * [x] movielens
 * [ ] netflix
 * [x] tafeng
 * [ ] tradesy
-* [ ] yoochoose
+  * [ ] `users.zip`
+  * [ ] `item_features.zip`
+* [x] yoochoose
+  * [x] `buy.zip`
+  * [x] `click.zip` (GitHub releases: https://github.com/PreferredAI/static-data/releases/download/yoochoose/click.zip)
+  * [x] `test.zip`
