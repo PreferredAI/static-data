@@ -17,9 +17,10 @@ This repository contains various recommendation systems datasets for [Cornac](ht
 * [x] movielens
 * [ ] netflix
 * [x] tafeng
-* [ ] tradesy
-  * [ ] `users.zip`
-  * [ ] `item_features.zip`
+* [x] tradesy
+  * [x] `users.zip`
+  * [x] `item_features.zip`
+  * [x] `item_ids.zip`
 * [x] yoochoose
   * [x] `buy.zip`
   * [x] `click.zip` (GitHub releases: https://github.com/PreferredAI/static-data/releases/download/yoochoose/click.zip)
