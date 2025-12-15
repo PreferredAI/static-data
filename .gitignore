@@ -7,6 +7,6 @@
 *.dat
 
 # Large dataset files
-cornac/datasets/gowalla/check-ins.zip
+*.datcornac/datasets/gowalla/check-ins.zip
 cornac/datasets/tradesy/item_features.zip
 cornac/datasets/gowalla/check-ins.zip
