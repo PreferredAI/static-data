@@ -10,3 +10,4 @@
 cornac/datasets/gowalla/check-ins.zip
 cornac/datasets/tradesy/item_features.zip
 cornac/datasets/yoochoose/click.zip
+cornac/datasets/movielens/ml-20m.zip
